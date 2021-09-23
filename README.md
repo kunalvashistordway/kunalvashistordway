@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <samp>
-I'm a Ruby on Rails/ J2EE developer
+I'm a Ruby on Rails/ Node.js/Front End developer
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/kunal-vashist-14839b4a/).
 
