@@ -10,13 +10,13 @@ Cheers!
 
 <p>
   <a href="https://github.com/kunalvashistordway/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalvashistordway&theme=radical&hide_langs_below=1&layout=compact" alt="Kunal Vashist github top languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalvashist&theme=radical&hide_langs_below=1&layout=compact" alt="Kunal Vashist github top languages" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/kunalvashistordway/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalvashistordway&show_icons=true&theme=radical&line_height=27" alt="kunal vashist github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalvashist&show_icons=true&theme=radical&line_height=27" alt="kunal vashist github stats" />
   </a>
 </p>
 
